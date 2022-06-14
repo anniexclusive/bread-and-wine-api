@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/delowtmt/breadandwine.delonygroup.com/
-    - /bin/cp -R bundles $DEPLOYPATH
+    - /bin/cp -R * $DEPLOYPATH
